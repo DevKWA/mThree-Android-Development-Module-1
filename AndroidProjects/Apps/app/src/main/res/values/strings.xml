@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pizza Party</string>
+    <string name="ravenous">Ravenous</string>
+    <string name="name">Name</string>
+    <string name="i_m_dieting">I\'m Dieting</string>
+    <string name="i_got_the_munchies">I got the munchies</string>
+    <string name="i_m_pretty_hungry">I\'m pretty hungry</string>
+    <string name="aight_where_s_my_food">Aight, where\'s my food!?</string>
+    <string name="i_am_famished">I am famished!</string>
+</resources>
